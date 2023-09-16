@@ -1,0 +1,23 @@
+{
+  "name": "woomy-api",
+  "version": "0.0.7",
+  "description": "The API for managing woomy.app's game servers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Drako Hyena",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2",
+    "fuzzysort": "^2.0.4",
+    "discord.js": "^13.16.0",
+    "express-ws": "^5.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

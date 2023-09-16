@@ -1,0 +1,7 @@
+envFile.txt
+node_modules/
+package-lock.json
+replit.nix
+.replit
+*.rivet/
+client/public/js/app.min.js
