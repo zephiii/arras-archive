@@ -1,7 +1,6 @@
 # Woomy-Arras Archive
-By DrakoHyena
-
-- Hellcat Woomy => `Last Update September 3, 2020`
-- Oxyrex => `Last Update March 21, 2022`
-- Oblivion Woomy => `Last Update Aug 26, 2022`
-- .App Woomy => `Last Update September 2, 2023`
+Originally uploaded by DrakoHyena. This archive contains:
+- Hellcat Woomy (`Last updated 2020-09-03, mostly incomplete`)
+- Oxyrex (`Last updated 2022-03-21`)
+- Oblivion Woomy (`Last updated 2022-08-26`)
+- .App Woomy (`Last updated 2023-09-02`)
