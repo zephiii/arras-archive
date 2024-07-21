@@ -1,5 +1,5 @@
-# Woomy-Arras Archive
-Originally uploaded by DrakoHyena. This archive contains:
+# Arras Archive
+This archive contains:
 
 - Arras.io
 	- Arras Classic (`Last updated 2019-01-02`)
