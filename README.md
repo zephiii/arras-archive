@@ -8,6 +8,5 @@ This archive contains:
 - Oxyrex (`Last updated 2022-03-21`)
 - Woomy-Arras.io
 	- Hellcat Woomy (`Last updated 2020-09-03, mostly incomplete`)
-	- CX Woomy (`Last updated 2022-06-23, client only, incomplete`)
 	- Oblivion Woomy (`Last updated 2022-08-26`)
 	- .App Woomy (`Last updated 2023-09-02`)
