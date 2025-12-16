@@ -1,9 +1,9 @@
 /*jslint node: true */
 "use strict";
 
-require('seedrandom');
+const seedrandom = require('seedrandom');
 // Seed math
-Math.seedrandom('' + Date.now());
+seedrandom('' + Date.now());
 
 exports.random = x => {
     return x * Math.random();
