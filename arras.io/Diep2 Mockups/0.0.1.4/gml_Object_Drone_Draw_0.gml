@@ -1,3 +1,4 @@
-drone_do()
-if entity_step()
-    entity_draw()
+drone_do();
+
+if (entity_step())
+    entity_draw();

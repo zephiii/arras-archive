@@ -1,1 +1,1 @@
-entity_collide()
+entity_collide();

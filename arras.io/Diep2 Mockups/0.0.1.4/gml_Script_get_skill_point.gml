@@ -1,4 +1,4 @@
-switch argument0
+switch (argument0)
 {
     case 1:
     case 3:
@@ -56,7 +56,9 @@ switch argument0
     case 125:
     case 135:
         return 1;
+        break;
+    
     default:
         return 0;
+        break;
 }
-

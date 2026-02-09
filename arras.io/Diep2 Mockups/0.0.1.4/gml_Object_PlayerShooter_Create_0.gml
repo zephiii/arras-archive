@@ -1,1 +1,1 @@
-player_init()
+player_init();

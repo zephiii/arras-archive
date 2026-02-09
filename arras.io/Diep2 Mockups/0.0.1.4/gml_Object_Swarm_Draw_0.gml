@@ -1,3 +1,4 @@
-swarm_do()
-if entity_step()
-    entity_draw()
+swarm_do();
+
+if (entity_step())
+    entity_draw();

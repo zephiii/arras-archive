@@ -1,1 +1,1 @@
-entity_draw_gui()
+entity_draw_gui();

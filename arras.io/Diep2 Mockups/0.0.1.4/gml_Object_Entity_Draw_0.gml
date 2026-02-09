@@ -1,2 +1,2 @@
-if entity_step()
-    entity_draw()
+if (entity_step())
+    entity_draw();

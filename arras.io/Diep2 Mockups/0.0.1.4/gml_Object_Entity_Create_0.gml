@@ -1,1 +1,1 @@
-entity_initalize()
+entity_initalize();
