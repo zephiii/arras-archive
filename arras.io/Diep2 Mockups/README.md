@@ -1,4 +1,3 @@
-# arrasio-mockups
-The exported code of all available early mockup builds of Arras.io.
-
-Special thanks to troll212420 and fillygroove on Discord for helping with this.
+# diep2.io GameMaker mockup builds
+- Special thanks to troll212420, fillygroove and ac22real on Discord for helping with this.
+- Use a program like UndertaleModTool to edit the `data.win` files.
