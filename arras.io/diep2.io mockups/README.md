@@ -6,5 +6,3 @@ This section contains the following:
 - 0.0.1 (`Compiled 2017-10-05 at 10:32:27`)
 - 0.0.1.2 (`Compiled 2017-10-08 at 04:05:33`)
 - 0.0.1.4 (`Compiled 2017-10-16 at 14:27:19`)
-
-(All dates are in Korea Standard Time (UTC+9) unless otherwise specified.)
