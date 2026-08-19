@@ -1,3 +1,7 @@
+# Patch [2026-08-17]
+- Oceania servers have been restored.
+- Asia servers have been removed and will remain unavailable for the foreseeable future.
+
 # Announcement [2025-12-13]
 - Over the past several weeks, arras.io has received multiple DMCA takedown notices from 3AM Experiences LLC, the owner of diep.io.
 - These notices resulted in the deletion of our official Discord server and most proxy sites, as well as various server outages.
